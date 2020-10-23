@@ -27,7 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://github.com/Gagandeep1051/Flixters/blob/master/walkthroughFlixter.gif" width=250><br>
 
 ### Notes
-This project really helped me learn more about app development. This was my first app that I worked on that used an API. It was a really good experience learning and improving my development skills. Looking forward to making more app and grow stronger in code. 
+This project really helped me learn more about app development. This was my first app that I worked on that used an API. It was a really good experience learning and improving my development skills. Looking forward to making more app and grow stronger in coding. 
 
 ### Open-source libraries used
 
